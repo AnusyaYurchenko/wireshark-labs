@@ -50,13 +50,13 @@ The capture file was saved in the following local folder:
 /home/anusya/wireshark
 ```
 
-The saved capture file was:
+The capture file was saved locally on my machine as:
 
 ```text
 dns_capture.pcapng
 ```
 
-For this GitHub portfolio write-up, I include the lab process, filters used, screenshots, results, and what I learned.
+For privacy and security reasons, I do not include the original .pcapng file in this public repository.
 
 ## Commands and Filters Used
 
